@@ -12,10 +12,10 @@ Este proyecto comprende el análisis de los beneficios brindados a deportistas p
       - Se crearon visualizaciones interactivas que permiten filtrar por año.
       - El dashboard incluye gráficos que muestran la distribución de los beneficios por región y tipo de deporte.
       - Los usuarios pueden explorar y comparar el apoyo recibido por los deportistas a lo largo del tiempo (desde 2020 hasta julio 2024).
-  
+ 
 ![Captura del Dashboard](images/Dashboard_Beneficios-Deportistas.png)
-![Captura del Dashboard](images/Dashboard_Beneficios-Deportistas_Provincia.png)
 
+![Captura del Dashboard](images/Dashboard_Beneficios-Deportistas_Provincias.png)
 
 ## Tecnologías implementadas 💻
   - Python/Pandas: Para la extracción, limpieza y transformación de los datos.
